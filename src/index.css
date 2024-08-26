@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+}
+
+#outerbox1 {
+  width: 55px;
+  height: 30px;
+  border-radius: 50px;
+  position: relative;
+  align-items: center;
+  transition: 0.5s;
+}
+#insidecircle1 {
+  height: 20px;
+  width: 20px;
+  top: 5px;
+  left: 5px;
+  border-radius: 50px;
+  position: relative;
+  transition: 0.5s;
+}

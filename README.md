@@ -13,7 +13,7 @@ After successful login, users should be directed to the onebox screen at `/googl
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/harikrishnaalvala/reach-inbox.git
    ```
 3. Navigate to the project directory:
    ```
